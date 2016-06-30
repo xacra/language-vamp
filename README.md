@@ -1,2 +1,3 @@
 # language-vamp
-Atom Editor Syntax Highlighting for Vamp
+
+VAMP language syntax highlighting
