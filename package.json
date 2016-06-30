@@ -6,7 +6,7 @@
     "language",
     "grammar"
   ],
-  "repository": "https://github.com/xacra/vamp/tree/master/devl/ext/editor/atom/language-vamp",
+  "repository": "https://github.com/xacra/language-vamp",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
